@@ -1,4 +1,4 @@
-# zz-vuetify
+# zz-vuetify (Vue 2)
 
 ## Project setup
 ```
