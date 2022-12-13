@@ -3,6 +3,10 @@
 ## Project setup
 ```
 npm install
+vue add vuetify
+
+npm install @vuelidate/core @vuelidate/validators
+npm install vee-validate@3 --save
 ```
 
 ### Compiles and hot-reloads for development
